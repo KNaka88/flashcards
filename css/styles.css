@@ -1,3 +1,18 @@
-/*.show-definition{
-  display:none;
-}*/
+
+.initially-hidden {
+  display: none;
+}
+
+.panel {
+  height: 260px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.panel-body {
+  border: 2px solid red;
+  height: 222px;
+}
